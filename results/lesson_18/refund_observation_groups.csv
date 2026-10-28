@@ -1,0 +1,3 @@
+﻿observation_group,paid_orders,orders_with_refund,observed_refund_order_rate,observed_refund_amount_rate
+at_least_21_days,3201,418,0.13058419243986255,0.07645183703561254
+under_21_days,232,12,0.05172413793103448,0.036884301532964056
